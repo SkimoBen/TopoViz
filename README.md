@@ -1,7 +1,7 @@
 # TopoViz
 
 ### A physical visualization of mountain topographies. 
-##### Insert screenshot
+![Screenshot](./assets/wpr.jpg)
 
 ## This Repo contains all the code I used in the project. The main components are: 
 
